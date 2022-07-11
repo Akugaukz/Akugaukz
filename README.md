@@ -8,3 +8,4 @@
 Akugaukz/Akugaukz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Unlock the full power of CodePen PRO. Get every feature CodePen has to offer starting at $8/month and start building code faster and easier
